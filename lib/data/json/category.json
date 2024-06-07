@@ -1,0 +1,202 @@
+[
+    {
+        "idCategory": 1,
+        "type": "Cerveja",
+        "product": [
+            {
+                "idProduct": 1,
+                "name": "Cerveja",
+                "type": "Long Neck",
+                "value": 12.00
+            }
+        ]
+    },
+    {
+        "idCategory": 2,
+        "type": "Destilado",
+        "product": [
+            {
+                "idProduct": 2,
+                "name": "Whisky 8 Anos",
+                "type": "Shot",
+                "value": 18.00
+            },
+            {
+                "idProduct": 3,
+                "name": "Whisky 12 Anos",
+                "type": "Shot",
+                "value": 25.00
+            },
+            {
+                "idProduct": 4,
+                "name": "Vodka",
+                "type": "Shot",
+                "value": 16.00
+            },
+            {
+                "idProduct": 5,
+                "name": "Gin",
+                "type": "Shot",
+                "value": 18.00
+            },
+            {
+                "idProduct": 6,
+                "name": "Campari",
+                "type": "Shot",
+                "value": 14.00
+            }
+        ]
+    },
+    {
+        "idCategory": 3,
+        "type": "Bebidas Prontas",
+        "product": [
+            {
+                "idProduct": 7,
+                "name": "Xeque Mate",
+                "type": "Lata",
+                "value": 16.00
+            },
+            {
+                "idProduct": 8,
+                "name": "Vodka & Citrus",
+                "type": "Lata",
+                "value": 16.00
+            },
+            {
+                "idProduct": 9,
+                "name": "Gin Tônica",
+                "type": "Lata",
+                "value": 16.00
+            }
+        ]
+    },
+    {
+        "idCategory": 4,
+        "type": "Água",
+        "product": [
+            {
+                "idProduct": 10,
+                "name": "Água",
+                "type": "Garrafa",
+                "value": 4.00
+            },
+            {
+                "idProduct": 11,
+                "name": "Água de Coco",
+                "type": "Caixa",
+                "value": 6.00
+            }
+        ]
+    },
+    {
+        "idCategory": 5,
+        "type": "Energético",
+        "product": [
+            {
+                "idProduct": 12,
+                "name": "Energético",
+                "type": "Lata",
+                "value": 14.00
+            }
+        ]
+    },
+    {
+        "idCategory": 6,
+        "type": "Suco",
+        "product": [
+            {
+                "idProduct": 13,
+                "name": "Suco",
+                "type": "Lata",
+                "value": 6.00
+            }
+        ]
+    },
+    {
+        "idCategory": 7,
+        "type": "Refrigerante",
+        "product": [
+            {
+                "idProduct": 14,
+                "name": "Refrigerante",
+                "type": "Lata",
+                "value": 6.00
+            }
+        ]
+    },
+    {
+        "idCategory": 8,
+        "type": "Combo",
+        "product": [
+            {
+                "idProduct": 15,
+                "name": "Whisky 8",
+                "type": "Combo",
+                "value": 270,
+                "options": [
+                    {
+                        "name": "Energético",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Refrigerante",
+                        "quantity": 5
+                    }
+                ]
+            },
+            {
+                "idProduct": 16,
+                "name": "Whisky 12",
+                "type": "Combo",
+                "value": 320,
+                "options": [
+                    {
+                        "name": "Energético",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Refrigerante",
+                        "quantity": 5
+                    }
+                ]
+            },
+            {
+                "idProduct": 17,
+                "name": "Vodka",
+                "type": "Combo",
+                "value": 240,
+                "options": [
+                    {
+                        "name": "Energético",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Refrigerante",
+                        "quantity": 5
+                    },
+                    {
+                        "name": "Suco",
+                        "quantity": 5
+                    }
+                ]
+            },
+            {
+                "idProduct": 18,
+                "name": "Gin",
+                "type": "Combo",
+                "value": 280,
+                "options": [
+                    {
+                        "name": "Energético",
+                        "quantity": 4
+                    },
+                    {
+                        "name": "Refrigerante",
+                        "quantity": 5
+                    }
+                ]
+            }
+        ]
+    }
+]
